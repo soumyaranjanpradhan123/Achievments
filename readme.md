@@ -8,9 +8,7 @@ University level project contest winner 2023
 
 
 
-## Invented a ground breaking sanitizing tunnel and sanitizer machines during the COVID-19
-## pandemic, featured on two national news channels and recognized by three local
-## newspapers for its significant impact on public health.April-2020
+## Invented a ground breaking sanitizing tunnel and sanitizer machines during the COVID-19pandemic, featured on two national news channels and recognized by three local newspapers for its significant impact on public health.April-2020
 
 ## Kalinga TV
 [![Video 1](https://img.youtube.com/vi/6J2dRMDGYaA/hqdefault.jpg)](https://youtu.be/6J2dRMDGYaA)
